@@ -31,9 +31,6 @@ An AI helper that runs on **your own PC**. Type what you want in plain words, go
 - **Works with bigger AIs**: an MCP connector for Claude Desktop, ChatGPT desktop, Gemini CLI, Cursor and LM Studio, so the cloud model plans and your PC does the grunt work for free
 - Windows, Mac and Linux · GPL-3.0
 
-<a href="https://github.com/sirgijoe/joe-ai"><img alt="joe-ai stars" src="https://img.shields.io/github/stars/sirgijoe/joe-ai?style=flat-square&labelColor=0b1220&color=4ade80"></a>
-<a href="https://github.com/sirgijoe/joe-ai/releases/latest"><img alt="joe-ai release" src="https://img.shields.io/github/v/release/sirgijoe/joe-ai?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
-
 <p align="center">
   <img src="./made-by-joe.jpg" alt="Eight pictures Joe made: fantasy, cyberpunk, anime, product photo, pixel art, watercolor, concept art and a coloring page" width="100%"><br>
   <sub>Every picture here was made by Joe on my own PC. No cloud, no subscription.</sub>
@@ -50,9 +47,6 @@ A free inventory and collection manager. It started as a way for my wife to cata
 - Exports straight to WooCommerce, spreadsheets and printable lists
 - Phone-to-desktop sync over your own Wi-Fi. No cloud, no account
 - Windows, Mac, Linux, Android and any browser · GPL-3.0
-
-<a href="https://github.com/sirgijoe/squire-sack"><img alt="squire-sack stars" src="https://img.shields.io/github/stars/sirgijoe/squire-sack?style=flat-square&labelColor=0b1220&color=4ade80"></a>
-<a href="https://github.com/sirgijoe/squire-sack/releases/latest"><img alt="squire-sack release" src="https://img.shields.io/github/v/release/sirgijoe/squire-sack?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
 
 ### 🎮 The sirgijoe arcade
 
