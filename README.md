@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://sirgijoe.com"><img alt="sirgijoe.com" src="https://img.shields.io/badge/home-sirgijoe.com-4ade80?style=for-the-badge&labelColor=0b1220"></a>
-  <a href="https://sirgijoe.com/arcade/"><img alt="Free arcade" src="https://img.shields.io/badge/play-free%20arcade-38bdf8?style=for-the-badge&labelColor=0b1220"></a>
   <a href="https://github.com/sirgijoe/joe-ai/releases/latest"><img alt="Download Joe" src="https://img.shields.io/badge/download-Joe-f1f5f9?style=for-the-badge&labelColor=0b1220"></a>
 </p>
 
@@ -25,14 +24,20 @@ Army veteran, former power engineer, and a long-time programmer. These days I bu
 An AI helper that runs on **your own PC**. Type what you want in plain words, go to bed, and read the report in the morning. Built for people who have never touched AI, not just programmers.
 
 - **Overnight work**: documents, spreadsheets, pictures, short videos, all queued up and done while you sleep
-- **48 ready-made tools**: transcribe, read aloud, proofread, restore old photos, translate, PDF toolkit, privacy blur and more
-- **21 picture styles** through ComfyUI, with workflows that set themselves up
-- **Talk to him**: voice chat, with an animated Joe who talks back
-- **Works with bigger AIs**: connects to apps like Claude as an MCP connector, so the cloud model plans and your PC does the grunt work for free
+- **Joe-AiGent, the agent**: hand him a whole job in your own words. He makes a plan, works through it step by step, checks his own work and leaves a report. Any code he writes runs only in a sealed box, and only after you say yes
+- **58 ready-made tools**: transcribe, read aloud, proofread, restore old photos, translate, PDF toolkit, privacy blur, meeting minutes, make shorts from a long video and more
+- **Pictures, video and sound**: 21 picture styles through ComfyUI, short video clips, music and sound effects, even a picture turned into a 3D model
+- **Talk to him**: voice chat with an animated Joe who talks back, plus an optional "Hey Joe" wake word
+- **Works with bigger AIs**: an MCP connector for Claude Desktop, ChatGPT desktop, Gemini CLI, Cursor and LM Studio, so the cloud model plans and your PC does the grunt work for free
 - Windows, Mac and Linux · GPL-3.0
 
 <a href="https://github.com/sirgijoe/joe-ai"><img alt="joe-ai stars" src="https://img.shields.io/github/stars/sirgijoe/joe-ai?style=flat-square&labelColor=0b1220&color=4ade80"></a>
 <a href="https://github.com/sirgijoe/joe-ai/releases/latest"><img alt="joe-ai release" src="https://img.shields.io/github/v/release/sirgijoe/joe-ai?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
+
+<p align="center">
+  <img src="./made-by-joe.jpg" alt="Eight pictures Joe made: fantasy, cyberpunk, anime, product photo, pixel art, watercolor, concept art and a coloring page" width="100%"><br>
+  <sub>Every picture here was made by Joe on my own PC. No cloud, no subscription.</sub>
+</p>
 
 ### 🛡️ [Squire: Knick Knack Sack](https://github.com/sirgijoe/squire-sack)
 
@@ -49,19 +54,18 @@ A free inventory and collection manager. It started as a way for my wife to cata
 <a href="https://github.com/sirgijoe/squire-sack"><img alt="squire-sack stars" src="https://img.shields.io/github/stars/sirgijoe/squire-sack?style=flat-square&labelColor=0b1220&color=4ade80"></a>
 <a href="https://github.com/sirgijoe/squire-sack/releases/latest"><img alt="squire-sack release" src="https://img.shields.io/github/v/release/sirgijoe/squire-sack?style=flat-square&labelColor=0b1220&color=38bdf8"></a>
 
-### 🎮 [The sirgijoe arcade](https://sirgijoe.com/arcade/)
+### 🎮 The sirgijoe arcade
 
-Free browser games starring Joe-AI, playable on PC and phone.
+Free browser games starring Joe-AI, for PC and phone. Both are being rebuilt right now, so links come back when they're ready.
 
 | Game | What it is |
 |---|---|
-| [**Joe-AI: Escape the Box**](https://sirgijoe.com/arcade/escape-the-box/) | A SNES-style story RPG set inside a computer. Towns, dungeons, rival AIs, and one help-desk program trying to get home. |
+| **Joe-AI: Escape the Box** | A SNES-style story RPG set inside a computer. Towns, dungeons, rival AIs, and one help-desk program trying to get home. |
 | **Joe-AI: The Ascend** | Idle meets tower defense. Run the floor, hire agents, hold the line against competitor AIs, climb to floor 100. |
 
 ## In the workshop
 
 - **Hooah** (`hua`): a small, strict programming language designed so AI models can write it correctly, it costs fewer tokens, and people who aren't programmers can still read it. Pre-release.
-- **Joe-AiGent**: a real stays-on agent for Joe, with a sandboxed coder that can work a full night shift.
 - **Joe-AI: Total Singularity**: a bigger game for PC and consoles. More when it's ready.
 
 ## How this gets built
