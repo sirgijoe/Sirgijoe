@@ -9,7 +9,7 @@
 
 ## Hi, I'm Joe
 
-Army veteran, former power engineer, and a long-time programmer. These days I build tools that make life easier for regular people, and I give them away.
+Army veteran, former power engineer, and a long-time hobby programmer. These days I build tools that make life easier for regular people, and I give them away.
 
 **Everything here is free and open source, and it stays that way.** No accounts, no tracking, no "pro" tier. My profit is knowing it helped somebody.
 
